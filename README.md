@@ -1,5 +1,5 @@
 # Decentralized-Lottery
-A decentralized lottery system built upon Ethereum blockchain using Solidity. This has been integrated with Metamask wallet and is deployed on Sepolia Testnet.
+A decentralized lottery system built upon Ethereum blockchain using Solidity. This system has been integrated with Metamask wallet and is deployed on Sepolia Testnet.
 
 This smart contract provides a secured lottery system.
 The contract works with a manager and participants. 
